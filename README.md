@@ -1,9 +1,10 @@
 # data-analyst-Jaya Vivek Reddy B
 # Exploratory Analysis of Vancouver Rental Standards Current Issues
 
-## Project Description
+## Project Phase 1 Description
 
 ## Data Analytical Platform
+
 ![Dap 1](https://github.com/user-attachments/assets/b1c3cfe5-7fcd-4702-93c0-0647db53f3bc)
 
 This project involves an exploratory analysis of the Vancouver Rental Standards Current Issues dataset. The primary goal is to identify and understand patterns and trends in unresolved by-law issues across different geographic areas within Vancouver. By leveraging data analytics and cloud computing tools, this project aims to provide actionable insights that can help improve rental standards and address compliance challenges in the city.
